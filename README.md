@@ -19,17 +19,6 @@ Currently working on:
   <img src="https://skillicons.dev/icons?i=python,flask,js,react,html,css,mongodb,git,arduino" />
 </p>
 
----
-
-## 📈 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Scotchex&show_icons=true&theme=tokyonight" height="165">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Scotchex&layout=compact&theme=tokyonight" height="165">
-</p>
-
----
-
 
 ## 📫 Let’s Connect
 
