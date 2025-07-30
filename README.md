@@ -24,7 +24,7 @@ Currently working on:
 ## 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=kleasjasmile&theme=tokyonight&hide_border=true" height="150">
+  <img src="https://streak-stats.demolab.com?user=Scotchex&theme=tokyonight&hide_border=true" height="150">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Scotchex&layout=compact&theme=tokyonight" height="165">
 </p>
 
