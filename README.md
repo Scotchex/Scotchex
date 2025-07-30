@@ -1,16 +1,40 @@
-## Hi there 👋
+<h1 align="center">Arda Serhatli</h1>
+<p align="center">
+  👨‍💻 Computer Engineering @ Virginia Tech • ⚛️ Nuclear + Economics Minor • 🧠 AI for Human Impact
 
-<!--
-**Scotchex/Scotchex** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+## 🧠 About Me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I'm a hands-on builder exploring how **AI**, **engineering**, and **human-centered design** can reshape health, education, and accessibility with an interest in nuclear energy.  
+
+Currently working on:
+- 🩺 **[VoxMed](https://github.com/Scotchex/voxmed)** – A real-time, voice-based AI assistant for medical conversations  
+ 
+---
+
+## 🛠 Tech Stack
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,flask,js,react,html,css,mongodb,git,arduino" />
+</p>
+
+---
+
+## 📈 GitHub Stats
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=kleasjasmile&theme=tokyonight&hide_border=true" height="165">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Scotchex&layout=compact&theme=tokyonight" height="165">
+</p>
+
+---
+
+
+## 📫 Let’s Connect
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/arda-serhatli/"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin"></a>
+  <a href="mailto:ardas@vt.edu"><img src="https://img.shields.io/badge/email-%23EA4335.svg?style=for-the-badge&logo=gmail&logoColor=white"></a>
+  <a href="https://github.com/Scotchex"><img src="https://img.shields.io/github/followers/kleasjasmile?label=Follow&style=for-the-badge"></a>
+</p>
