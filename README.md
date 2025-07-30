@@ -24,7 +24,7 @@ Currently working on:
 ## 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=kleasjasmile&theme=tokyonight&hide_border=true" height="165">
+  <img src="https://streak-stats.demolab.com?user=kleasjasmile&theme=tokyonight&hide_border=true" height="150">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Scotchex&layout=compact&theme=tokyonight" height="165">
 </p>
 
@@ -36,5 +36,5 @@ Currently working on:
 <p align="center">
   <a href="https://www.linkedin.com/in/arda-serhatli/"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin"></a>
   <a href="mailto:ardas@vt.edu"><img src="https://img.shields.io/badge/email-%23EA4335.svg?style=for-the-badge&logo=gmail&logoColor=white"></a>
-  <a href="https://github.com/Scotchex"><img src="https://img.shields.io/github/followers/kleasjasmile?label=Follow&style=for-the-badge"></a>
+  <a href="https://github.com/Scotchex"><img src="https://img.shields.io/github/followers/Scotchex?label=Follow&style=for-the-badge"></a>
 </p>
