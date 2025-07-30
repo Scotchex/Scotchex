@@ -24,7 +24,7 @@ Currently working on:
 ## 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Scothcex&show_icons=true&theme=tokyonight">
+  <img src="https://github-readme-stats.vercel.app/api?username=Scotchex&show_icons=true&theme=tokyonight" height="165">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Scotchex&layout=compact&theme=tokyonight" height="165">
 </p>
 
